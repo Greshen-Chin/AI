@@ -1,6 +1,6 @@
 {
   "model_name": "supply_90_model",
-  "training_date": "2025-12-09 23:24:56",
+  "training_date": "2025-12-16 16:14:31",
   "n_features": 43,
   "model_params": {
     "verbosity": -1,
